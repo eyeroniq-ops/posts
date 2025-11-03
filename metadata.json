@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Publicaciones de Redes Sociales con IA",
+  "description": "Sube el logo de tu marca, describe la publicación que quieres crear, y esta aplicación usará Gemini para generar un gráfico personalizado para redes sociales que coincida con el estilo y los colores de tu marca, inspirado en las tendencias de diseño moderno.",
+  "requestFramePermissions": []
+}
